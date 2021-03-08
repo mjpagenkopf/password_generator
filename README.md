@@ -27,13 +27,14 @@ Requirements:
 ### Links: UPDATED
 in order to provide a working website, I had to create a separate repository to push my final updated assets folder to since I had originally committed a folder with "assets" capitalized. I have left the original repo and website link below to see the commit history. 
 
-updated website: https://mjpagenkopf.github.io/password_generator/
-updated repository: https://github.com/mjpagenkopf/password_generator
+- updated website: https://mjpagenkopf.github.io/password_generator/
+
+- updated repository: https://github.com/mjpagenkopf/password_generator
 
 
-original website: https://mjpagenkopf.github.io/employee_pw_gen/
+- original website: https://mjpagenkopf.github.io/employee_pw_gen/
 
-original repository: https://github.com/mjpagenkopf/employee_pw_gen
+- original repository: https://github.com/mjpagenkopf/employee_pw_gen
 
 
 ### Screenshot for Reference
