@@ -24,10 +24,16 @@ Requirements:
 
 * That generated selection is then added to the Function Declaration that indicates where to show the password in the html using the document.querySelector 
 ---
-### Links:
-website: https://mjpagenkopf.github.io/employee_pw_gen/
+### Links: UPDATED
+in order to provide a working website, I had to create a separate repository to push my final updated assets folder to since I had originally committed a folder with "assets" capitalized. I have left the original repo and website link below to see the commit history. 
 
-Repository: https://github.com/mjpagenkopf/employee_pw_gen
+updated website: https://mjpagenkopf.github.io/password_generator/
+updated repository: https://github.com/mjpagenkopf/password_generator
+
+
+original website: https://mjpagenkopf.github.io/employee_pw_gen/
+
+original repository: https://github.com/mjpagenkopf/employee_pw_gen
 
 
 ### Screenshot for Reference
